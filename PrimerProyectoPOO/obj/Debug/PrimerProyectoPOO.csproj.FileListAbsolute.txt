@@ -1,0 +1,8 @@
+C:\Users\jesus\OneDrive\3er cuatri\Programación Orientada a Objetos\Proyectos\PrimerProyectoPOO\bin\Debug\PrimerProyectoPOO.exe.config
+C:\Users\jesus\OneDrive\3er cuatri\Programación Orientada a Objetos\Proyectos\PrimerProyectoPOO\bin\Debug\PrimerProyectoPOO.exe
+C:\Users\jesus\OneDrive\3er cuatri\Programación Orientada a Objetos\Proyectos\PrimerProyectoPOO\bin\Debug\PrimerProyectoPOO.pdb
+C:\Users\jesus\OneDrive\3er cuatri\Programación Orientada a Objetos\Proyectos\PrimerProyectoPOO\obj\Debug\PrimerProyectoPOO.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\3er cuatri\Programación Orientada a Objetos\Proyectos\PrimerProyectoPOO\obj\Debug\PrimerProyectoPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesus\OneDrive\3er cuatri\Programación Orientada a Objetos\Proyectos\PrimerProyectoPOO\obj\Debug\PrimerProyectoPOO.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\3er cuatri\Programación Orientada a Objetos\Proyectos\PrimerProyectoPOO\obj\Debug\PrimerProyectoPOO.exe
+C:\Users\jesus\OneDrive\3er cuatri\Programación Orientada a Objetos\Proyectos\PrimerProyectoPOO\obj\Debug\PrimerProyectoPOO.pdb
